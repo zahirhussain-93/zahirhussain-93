@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zahirhussain-93
+- 👋 Hi, I’m @zahirhussain
 - 👀 I’m interested in Cooking, Car Drives
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ...
